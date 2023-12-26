@@ -1,0 +1,48 @@
++tepki
+
+01 baglandý gönderiliyor
+
+2 balantý hatasý
+
+3 ba$ladý
+
+4 pencere izleme durdu
+
+5 ses zaten kaydediyor
+
+6 Komut i$leniyor..
+
+7 Program kapatiliyor..
+
+8 Baglanti Kesiliyor..
+
+9 Giri$ aygýtlari devre dý$ý..
+
+10 Giri$ aygitlari aktif..
+
+11 Yazi Artik Kalici Degil
+
+12 Fare Kilitlendi
+
+13 Fare Aktif
+
+14 Program Kilidi Devre Di$i..
+
+15 uyari zaten aktif
+
+16 uyari kapatildi
+
+17 uyari hala acik
+
+18 idle uyarisi aktif
+
+19 CDROM kapagi acildi..
+
+20 CDROM kapagi kapandi..
+
+21 
+
+
+
+
+

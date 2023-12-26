@@ -1,0 +1,18 @@
+max paket boyutu : bu baglantý türüne göre farklýlýk gösterir..
+
+eski slip ras baglantýlarý : 900
+
+vpn,dialup,seri & paralel baglantýlar : 1250
+
+wireless & sanal Baðda$týrýcýlar ( hamachi vs.): 1400
+
+ethernet : 6000
+
+geni$ bant & frame relay : 7900;
+
+
+
+
+
+
+ 
