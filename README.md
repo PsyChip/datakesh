@@ -15,6 +15,7 @@ Switched to delphi 7, features FWB++ (firewall bypass) by injecting dll into exp
 Features socket compression and polymorphic code to bypass AV's. Also it's the publicly released version, did some makeup, created a cool opengl intro with background music and added few sound effects.
 
 mail: root@psychip.net
-http://psychip.net/software
+
+http://psychip.net/
 
 uploaded on 26 dec 2023
